@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ian, an IT Ace <https://www.linkedin.com/in/ian-shaw-065358267/>
+<h1>Hi, I'm Ian, an enterprising IT Ace <https://www.linkedin.com/in/ian-shaw-065358267/>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
